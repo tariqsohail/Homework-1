@@ -71,9 +71,21 @@ footer{
     background-color: grey;
     height: 50px;
     margin-top: auto;
+
+  
 }
 
 span{
     margin-top: 0%;
     margin-left: 80%;
 }
+
+.image-wrapper{
+    float: left;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
