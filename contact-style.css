@@ -18,10 +18,10 @@ body{
 }
 
 a{
-    float: right;
     padding: 14px 16px;
     text-decoration: none;
     font-size: medium;
+    color:teal
 }
 
 .green-box{
